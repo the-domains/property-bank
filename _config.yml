@@ -1,0 +1,28 @@
+name: PROPERTY BANK
+favicon: null
+layout_spectrum: 0.16551003395579755
+typography_spectrum: 0.22495028376579285
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4673824608325958
+  lightness: 0.43732868786901236
+  saturation: 0.22192559647373855
+  rhythmicContrast: 0.3360563963651657
+purpose: []
